@@ -15,7 +15,11 @@ conda create -n * python=$
 ```
 source activate *
 ```
-4. Run the following command to deactivate the current Python version (NOT uninstall)
+4. Run your python script (e.g. `main.py`) in terminal with the following command
+```
+python main.py
+```
+5. Run the following command to deactivate the current Python version (NOT uninstall)
 ```
 source deactivate
 ```
