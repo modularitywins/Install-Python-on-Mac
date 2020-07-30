@@ -37,3 +37,7 @@ If you don't know how install a package `*` with `conda`, simply google the foll
 ```
 how to install * with conda
 ```
+It would usually follow the following format:
+```
+conda install -c conda-forge *
+```
