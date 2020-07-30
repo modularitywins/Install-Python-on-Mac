@@ -25,10 +25,15 @@ source deactivate
 ```
 
 ### How to install Python packages using `conda`:
+Some examples of popular Python packages:
 ```
 conda install -c conda-forge numpy
 conda install -c conda-forge pandas
 conda install -c conda-forge matplotlib
 conda install -c conda-forge scikit-learn
 conda install -c conda-forge tensorflow
+```
+If you don't know how install a package `*` with `conda`, simply google the following words:
+```
+how to install * with conda
 ```
